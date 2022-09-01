@@ -10,5 +10,7 @@ If you have completed the activity and want to further your knowledge, work thro
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
+## Submission
+[Store Website](https://bslockhart.github.io/Class-Activity-03-Responsive-Design/)
 ---
 
